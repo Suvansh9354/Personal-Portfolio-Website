@@ -438,7 +438,8 @@ header .navbar ul li a:hover{
 }
 
 .skills{
-    margin-top: -250px;
+    margin-top: -300px;
+    margin-bottom: -150px;
 }
 
 .skills .row{
